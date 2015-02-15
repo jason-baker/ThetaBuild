@@ -1,0 +1,9 @@
+package provide thetaBuild 1.0
+namespace eval ::thetaBuild::util {
+    proc error {} {
+    }
+    proc Proc {} {
+    }
+    
+}
+

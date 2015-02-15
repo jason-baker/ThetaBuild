@@ -1,2 +1,2 @@
 all:
-	$(MAKE) -C ThetaBuild
+	$(MAKE) -C thetaBuild
